@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://chaitanyagiri.ga/"/>
+  <link href="https://chaitanyagiri.ga/"/>
   <updated>2018-05-14T13:33:39.081Z</updated>
-  <id>http://chaitanyagiri.ga/</id>
+  <id>https://chaitanyagiri.ga/</id>
   
   <author>
     <name>Chaitanya Giri</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Impacts of Data Science as an encouragement in today’s industry.</title>
-    <link href="http://chaitanyagiri.ga/2018/04/10/Impacts-of-Data-Science-as-an-encouragement-in-today%E2%80%99s-industry/"/>
-    <id>http://chaitanyagiri.ga/2018/04/10/Impacts-of-Data-Science-as-an-encouragement-in-today’s-industry/</id>
+    <link href="https://chaitanyagiri.ga/2018/04/10/Impacts-of-Data-Science-as-an-encouragement-in-today%E2%80%99s-industry/"/>
+    <id>https://chaitanyagiri.ga/2018/04/10/Impacts-of-Data-Science-as-an-encouragement-in-today’s-industry/</id>
     <published>2018-04-10T13:30:00.000Z</published>
     <updated>2018-05-14T13:33:39.081Z</updated>
     
@@ -34,25 +34,25 @@
     
     </summary>
     
-      <category term="Discussion" scheme="http://chaitanyagiri.ga/categories/Discussion/"/>
+      <category term="Discussion" scheme="https://chaitanyagiri.ga/categories/Discussion/"/>
     
-      <category term="Technology" scheme="http://chaitanyagiri.ga/categories/Discussion/Technology/"/>
+      <category term="Technology" scheme="https://chaitanyagiri.ga/categories/Discussion/Technology/"/>
     
     
-      <category term="Data science" scheme="http://chaitanyagiri.ga/tags/Data-science/"/>
+      <category term="Data science" scheme="https://chaitanyagiri.ga/tags/Data-science/"/>
     
-      <category term="Discussion" scheme="http://chaitanyagiri.ga/tags/Discussion/"/>
+      <category term="Discussion" scheme="https://chaitanyagiri.ga/tags/Discussion/"/>
     
-      <category term="Thinking" scheme="http://chaitanyagiri.ga/tags/Thinking/"/>
+      <category term="Thinking" scheme="https://chaitanyagiri.ga/tags/Thinking/"/>
     
-      <category term="Impacts on society" scheme="http://chaitanyagiri.ga/tags/Impacts-on-society/"/>
+      <category term="Impacts on society" scheme="https://chaitanyagiri.ga/tags/Impacts-on-society/"/>
     
   </entry>
   
   <entry>
     <title>Explaining Reservation in India to a complete foreigner.</title>
-    <link href="http://chaitanyagiri.ga/2018/04/06/Explaining-Reservation-in-India-to-a-complete-foreigner/"/>
-    <id>http://chaitanyagiri.ga/2018/04/06/Explaining-Reservation-in-India-to-a-complete-foreigner/</id>
+    <link href="https://chaitanyagiri.ga/2018/04/06/Explaining-Reservation-in-India-to-a-complete-foreigner/"/>
+    <id>https://chaitanyagiri.ga/2018/04/06/Explaining-Reservation-in-India-to-a-complete-foreigner/</id>
     <published>2018-04-06T13:24:00.000Z</published>
     <updated>2018-05-14T13:29:42.893Z</updated>
     
@@ -67,21 +67,21 @@
     
     </summary>
     
-      <category term="Discussion" scheme="http://chaitanyagiri.ga/categories/Discussion/"/>
+      <category term="Discussion" scheme="https://chaitanyagiri.ga/categories/Discussion/"/>
     
     
-      <category term="Social Issues" scheme="http://chaitanyagiri.ga/tags/Social-Issues/"/>
+      <category term="Social Issues" scheme="https://chaitanyagiri.ga/tags/Social-Issues/"/>
     
-      <category term="Reservation" scheme="http://chaitanyagiri.ga/tags/Reservation/"/>
+      <category term="Reservation" scheme="https://chaitanyagiri.ga/tags/Reservation/"/>
     
-      <category term="India" scheme="http://chaitanyagiri.ga/tags/India/"/>
+      <category term="India" scheme="https://chaitanyagiri.ga/tags/India/"/>
     
   </entry>
   
   <entry>
     <title>MongoDB Replica set, Oplog and other ghosts that haunt you.</title>
-    <link href="http://chaitanyagiri.ga/2018/03/04/MongoDB-Replica-set-Oplog-and-other-ghosts-that-haunt-you/"/>
-    <id>http://chaitanyagiri.ga/2018/03/04/MongoDB-Replica-set-Oplog-and-other-ghosts-that-haunt-you/</id>
+    <link href="https://chaitanyagiri.ga/2018/03/04/MongoDB-Replica-set-Oplog-and-other-ghosts-that-haunt-you/"/>
+    <id>https://chaitanyagiri.ga/2018/03/04/MongoDB-Replica-set-Oplog-and-other-ghosts-that-haunt-you/</id>
     <published>2018-03-04T13:21:00.000Z</published>
     <updated>2018-05-14T13:24:05.981Z</updated>
     
@@ -96,27 +96,27 @@
     
     </summary>
     
-      <category term="Tutorial" scheme="http://chaitanyagiri.ga/categories/Tutorial/"/>
+      <category term="Tutorial" scheme="https://chaitanyagiri.ga/categories/Tutorial/"/>
     
     
-      <category term="Javascript" scheme="http://chaitanyagiri.ga/tags/Javascript/"/>
+      <category term="Javascript" scheme="https://chaitanyagiri.ga/tags/Javascript/"/>
     
-      <category term="Tutorial" scheme="http://chaitanyagiri.ga/tags/Tutorial/"/>
+      <category term="Tutorial" scheme="https://chaitanyagiri.ga/tags/Tutorial/"/>
     
-      <category term="MongoDB" scheme="http://chaitanyagiri.ga/tags/MongoDB/"/>
+      <category term="MongoDB" scheme="https://chaitanyagiri.ga/tags/MongoDB/"/>
     
-      <category term="NodeJS" scheme="http://chaitanyagiri.ga/tags/NodeJS/"/>
+      <category term="NodeJS" scheme="https://chaitanyagiri.ga/tags/NodeJS/"/>
     
-      <category term="NoSQL" scheme="http://chaitanyagiri.ga/tags/NoSQL/"/>
+      <category term="NoSQL" scheme="https://chaitanyagiri.ga/tags/NoSQL/"/>
     
-      <category term="Databases" scheme="http://chaitanyagiri.ga/tags/Databases/"/>
+      <category term="Databases" scheme="https://chaitanyagiri.ga/tags/Databases/"/>
     
   </entry>
   
   <entry>
     <title>How I became a mentor in Google Code-In’17?</title>
-    <link href="http://chaitanyagiri.ga/2018/01/10/How-I-became-a-mentor-in-Google-Code-In%E2%80%9917/"/>
-    <id>http://chaitanyagiri.ga/2018/01/10/How-I-became-a-mentor-in-Google-Code-In’17/</id>
+    <link href="https://chaitanyagiri.ga/2018/01/10/How-I-became-a-mentor-in-Google-Code-In%E2%80%9917/"/>
+    <id>https://chaitanyagiri.ga/2018/01/10/How-I-became-a-mentor-in-Google-Code-In’17/</id>
     <published>2018-01-10T13:18:00.000Z</published>
     <updated>2018-05-14T13:20:02.629Z</updated>
     
@@ -131,23 +131,23 @@
     
     </summary>
     
-      <category term="Experiences" scheme="http://chaitanyagiri.ga/categories/Experiences/"/>
+      <category term="Experiences" scheme="https://chaitanyagiri.ga/categories/Experiences/"/>
     
     
-      <category term="Learning" scheme="http://chaitanyagiri.ga/tags/Learning/"/>
+      <category term="Learning" scheme="https://chaitanyagiri.ga/tags/Learning/"/>
     
-      <category term="Opportunity" scheme="http://chaitanyagiri.ga/tags/Opportunity/"/>
+      <category term="Opportunity" scheme="https://chaitanyagiri.ga/tags/Opportunity/"/>
     
-      <category term="Google" scheme="http://chaitanyagiri.ga/tags/Google/"/>
+      <category term="Google" scheme="https://chaitanyagiri.ga/tags/Google/"/>
     
-      <category term="Mentorship" scheme="http://chaitanyagiri.ga/tags/Mentorship/"/>
+      <category term="Mentorship" scheme="https://chaitanyagiri.ga/tags/Mentorship/"/>
     
   </entry>
   
   <entry>
     <title>How a hackathon can give you a cool project and ample of opportunities?</title>
-    <link href="http://chaitanyagiri.ga/2017/12/06/How-a-hackathon-can-give-you-a-cool-project-and-ample-of-opportunities/"/>
-    <id>http://chaitanyagiri.ga/2017/12/06/How-a-hackathon-can-give-you-a-cool-project-and-ample-of-opportunities/</id>
+    <link href="https://chaitanyagiri.ga/2017/12/06/How-a-hackathon-can-give-you-a-cool-project-and-ample-of-opportunities/"/>
+    <id>https://chaitanyagiri.ga/2017/12/06/How-a-hackathon-can-give-you-a-cool-project-and-ample-of-opportunities/</id>
     <published>2017-12-06T13:12:00.000Z</published>
     <updated>2018-05-14T13:16:57.701Z</updated>
     
@@ -162,23 +162,23 @@
     
     </summary>
     
-      <category term="Experiences" scheme="http://chaitanyagiri.ga/categories/Experiences/"/>
+      <category term="Experiences" scheme="https://chaitanyagiri.ga/categories/Experiences/"/>
     
     
-      <category term="Safai" scheme="http://chaitanyagiri.ga/tags/Safai/"/>
+      <category term="Safai" scheme="https://chaitanyagiri.ga/tags/Safai/"/>
     
-      <category term="Hackathon" scheme="http://chaitanyagiri.ga/tags/Hackathon/"/>
+      <category term="Hackathon" scheme="https://chaitanyagiri.ga/tags/Hackathon/"/>
     
-      <category term="Experiences" scheme="http://chaitanyagiri.ga/tags/Experiences/"/>
+      <category term="Experiences" scheme="https://chaitanyagiri.ga/tags/Experiences/"/>
     
-      <category term="Projects" scheme="http://chaitanyagiri.ga/tags/Projects/"/>
+      <category term="Projects" scheme="https://chaitanyagiri.ga/tags/Projects/"/>
     
   </entry>
   
   <entry>
     <title>International Men’s Day Vs International Women’s Day.</title>
-    <link href="http://chaitanyagiri.ga/2017/11/20/International-Men%E2%80%99s-Day-Vs-International-Women%E2%80%99s-Day/"/>
-    <id>http://chaitanyagiri.ga/2017/11/20/International-Men’s-Day-Vs-International-Women’s-Day/</id>
+    <link href="https://chaitanyagiri.ga/2017/11/20/International-Men%E2%80%99s-Day-Vs-International-Women%E2%80%99s-Day/"/>
+    <id>https://chaitanyagiri.ga/2017/11/20/International-Men’s-Day-Vs-International-Women’s-Day/</id>
     <published>2017-11-20T13:09:00.000Z</published>
     <updated>2018-05-14T13:11:15.241Z</updated>
     
@@ -193,27 +193,27 @@
     
     </summary>
     
-      <category term="Discussion" scheme="http://chaitanyagiri.ga/categories/Discussion/"/>
+      <category term="Discussion" scheme="https://chaitanyagiri.ga/categories/Discussion/"/>
     
-      <category term="Social" scheme="http://chaitanyagiri.ga/categories/Discussion/Social/"/>
+      <category term="Social" scheme="https://chaitanyagiri.ga/categories/Discussion/Social/"/>
     
     
-      <category term="Political" scheme="http://chaitanyagiri.ga/tags/Political/"/>
+      <category term="Political" scheme="https://chaitanyagiri.ga/tags/Political/"/>
     
-      <category term="Feminism" scheme="http://chaitanyagiri.ga/tags/Feminism/"/>
+      <category term="Feminism" scheme="https://chaitanyagiri.ga/tags/Feminism/"/>
     
-      <category term="Sexist" scheme="http://chaitanyagiri.ga/tags/Sexist/"/>
+      <category term="Sexist" scheme="https://chaitanyagiri.ga/tags/Sexist/"/>
     
-      <category term="Men&#39;s Day" scheme="http://chaitanyagiri.ga/tags/Men-s-Day/"/>
+      <category term="Men&#39;s Day" scheme="https://chaitanyagiri.ga/tags/Men-s-Day/"/>
     
-      <category term="Women&#39;s Day" scheme="http://chaitanyagiri.ga/tags/Women-s-Day/"/>
+      <category term="Women&#39;s Day" scheme="https://chaitanyagiri.ga/tags/Women-s-Day/"/>
     
   </entry>
   
   <entry>
     <title>Summarizing YDKJS : UP &amp; GOING: Chapter -2</title>
-    <link href="http://chaitanyagiri.ga/2017/10/21/Summarizing-YDKJS-UP-GOING-Chapter-2/"/>
-    <id>http://chaitanyagiri.ga/2017/10/21/Summarizing-YDKJS-UP-GOING-Chapter-2/</id>
+    <link href="https://chaitanyagiri.ga/2017/10/21/Summarizing-YDKJS-UP-GOING-Chapter-2/"/>
+    <id>https://chaitanyagiri.ga/2017/10/21/Summarizing-YDKJS-UP-GOING-Chapter-2/</id>
     <published>2017-10-21T13:05:00.000Z</published>
     <updated>2018-05-14T13:07:23.881Z</updated>
     
@@ -228,25 +228,25 @@
     
     </summary>
     
-      <category term="Tutorial" scheme="http://chaitanyagiri.ga/categories/Tutorial/"/>
+      <category term="Tutorial" scheme="https://chaitanyagiri.ga/categories/Tutorial/"/>
     
     
-      <category term="Web Development" scheme="http://chaitanyagiri.ga/tags/Web-Development/"/>
+      <category term="Web Development" scheme="https://chaitanyagiri.ga/tags/Web-Development/"/>
     
-      <category term="Javascript" scheme="http://chaitanyagiri.ga/tags/Javascript/"/>
+      <category term="Javascript" scheme="https://chaitanyagiri.ga/tags/Javascript/"/>
     
-      <category term="Tutorial" scheme="http://chaitanyagiri.ga/tags/Tutorial/"/>
+      <category term="Tutorial" scheme="https://chaitanyagiri.ga/tags/Tutorial/"/>
     
-      <category term="Learning" scheme="http://chaitanyagiri.ga/tags/Learning/"/>
+      <category term="Learning" scheme="https://chaitanyagiri.ga/tags/Learning/"/>
     
-      <category term="Book Summary" scheme="http://chaitanyagiri.ga/tags/Book-Summary/"/>
+      <category term="Book Summary" scheme="https://chaitanyagiri.ga/tags/Book-Summary/"/>
     
   </entry>
   
   <entry>
     <title>Difficulties that a developer faces while developing his first full-stack application.</title>
-    <link href="http://chaitanyagiri.ga/2017/10/16/Difficulties-that-a-developer-faces-while-developing-his-first-full-stack-application/"/>
-    <id>http://chaitanyagiri.ga/2017/10/16/Difficulties-that-a-developer-faces-while-developing-his-first-full-stack-application/</id>
+    <link href="https://chaitanyagiri.ga/2017/10/16/Difficulties-that-a-developer-faces-while-developing-his-first-full-stack-application/"/>
+    <id>https://chaitanyagiri.ga/2017/10/16/Difficulties-that-a-developer-faces-while-developing-his-first-full-stack-application/</id>
     <published>2017-10-16T12:50:00.000Z</published>
     <updated>2018-05-14T13:04:47.617Z</updated>
     
@@ -261,21 +261,21 @@
     
     </summary>
     
-      <category term="Advice" scheme="http://chaitanyagiri.ga/categories/Advice/"/>
+      <category term="Advice" scheme="https://chaitanyagiri.ga/categories/Advice/"/>
     
     
-      <category term="Advice" scheme="http://chaitanyagiri.ga/tags/Advice/"/>
+      <category term="Advice" scheme="https://chaitanyagiri.ga/tags/Advice/"/>
     
-      <category term="Experience" scheme="http://chaitanyagiri.ga/tags/Experience/"/>
+      <category term="Experience" scheme="https://chaitanyagiri.ga/tags/Experience/"/>
     
-      <category term="Full-Stack applicatiion development" scheme="http://chaitanyagiri.ga/tags/Full-Stack-applicatiion-development/"/>
+      <category term="Full-Stack applicatiion development" scheme="https://chaitanyagiri.ga/tags/Full-Stack-applicatiion-development/"/>
     
   </entry>
   
   <entry>
     <title>Why you should attend Google Developer’s Group DevFests.</title>
-    <link href="http://chaitanyagiri.ga/2017/10/08/Why-you-should-attend-Google-Developer%E2%80%99s-Group-DevFests/"/>
-    <id>http://chaitanyagiri.ga/2017/10/08/Why-you-should-attend-Google-Developer’s-Group-DevFests/</id>
+    <link href="https://chaitanyagiri.ga/2017/10/08/Why-you-should-attend-Google-Developer%E2%80%99s-Group-DevFests/"/>
+    <id>https://chaitanyagiri.ga/2017/10/08/Why-you-should-attend-Google-Developer’s-Group-DevFests/</id>
     <published>2017-10-08T12:45:00.000Z</published>
     <updated>2018-05-14T13:34:27.277Z</updated>
     
@@ -290,21 +290,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://chaitanyagiri.ga/categories/Events/"/>
+      <category term="Events" scheme="https://chaitanyagiri.ga/categories/Events/"/>
     
     
-      <category term="Events" scheme="http://chaitanyagiri.ga/tags/Events/"/>
+      <category term="Events" scheme="https://chaitanyagiri.ga/tags/Events/"/>
     
-      <category term="GDG" scheme="http://chaitanyagiri.ga/tags/GDG/"/>
+      <category term="GDG" scheme="https://chaitanyagiri.ga/tags/GDG/"/>
     
-      <category term="Fun " scheme="http://chaitanyagiri.ga/tags/Fun/"/>
+      <category term="Fun " scheme="https://chaitanyagiri.ga/tags/Fun/"/>
     
   </entry>
   
   <entry>
     <title>Summarizing YDKJS : UP &amp; GOING: Chapter -1</title>
-    <link href="http://chaitanyagiri.ga/2017/06/24/Summarizing-YDKJS-UP-GOING-Chapter-1/"/>
-    <id>http://chaitanyagiri.ga/2017/06/24/Summarizing-YDKJS-UP-GOING-Chapter-1/</id>
+    <link href="https://chaitanyagiri.ga/2017/06/24/Summarizing-YDKJS-UP-GOING-Chapter-1/"/>
+    <id>https://chaitanyagiri.ga/2017/06/24/Summarizing-YDKJS-UP-GOING-Chapter-1/</id>
     <published>2017-06-24T12:27:00.000Z</published>
     <updated>2018-05-14T12:37:32.013Z</updated>
     
@@ -319,25 +319,25 @@
     
     </summary>
     
-      <category term="Tutorial" scheme="http://chaitanyagiri.ga/categories/Tutorial/"/>
+      <category term="Tutorial" scheme="https://chaitanyagiri.ga/categories/Tutorial/"/>
     
     
-      <category term="Javascript" scheme="http://chaitanyagiri.ga/tags/Javascript/"/>
+      <category term="Javascript" scheme="https://chaitanyagiri.ga/tags/Javascript/"/>
     
-      <category term="Tutorial" scheme="http://chaitanyagiri.ga/tags/Tutorial/"/>
+      <category term="Tutorial" scheme="https://chaitanyagiri.ga/tags/Tutorial/"/>
     
-      <category term="Book" scheme="http://chaitanyagiri.ga/tags/Book/"/>
+      <category term="Book" scheme="https://chaitanyagiri.ga/tags/Book/"/>
     
-      <category term="series" scheme="http://chaitanyagiri.ga/tags/series/"/>
+      <category term="series" scheme="https://chaitanyagiri.ga/tags/series/"/>
     
-      <category term="summary" scheme="http://chaitanyagiri.ga/tags/summary/"/>
+      <category term="summary" scheme="https://chaitanyagiri.ga/tags/summary/"/>
     
   </entry>
   
   <entry>
     <title>How to complete Freecodecamp&#39;s front end certification in 40 days.</title>
-    <link href="http://chaitanyagiri.ga/2017/06/19/How/"/>
-    <id>http://chaitanyagiri.ga/2017/06/19/How/</id>
+    <link href="https://chaitanyagiri.ga/2017/06/19/How/"/>
+    <id>https://chaitanyagiri.ga/2017/06/19/How/</id>
     <published>2017-06-19T12:16:00.000Z</published>
     <updated>2018-05-14T12:21:00.825Z</updated>
     
@@ -352,16 +352,16 @@
     
     </summary>
     
-      <category term="Journey" scheme="http://chaitanyagiri.ga/categories/Journey/"/>
+      <category term="Journey" scheme="https://chaitanyagiri.ga/categories/Journey/"/>
     
     
-      <category term="Freecodecamp" scheme="http://chaitanyagiri.ga/tags/Freecodecamp/"/>
+      <category term="Freecodecamp" scheme="https://chaitanyagiri.ga/tags/Freecodecamp/"/>
     
-      <category term="Web Development" scheme="http://chaitanyagiri.ga/tags/Web-Development/"/>
+      <category term="Web Development" scheme="https://chaitanyagiri.ga/tags/Web-Development/"/>
     
-      <category term="Javascript" scheme="http://chaitanyagiri.ga/tags/Javascript/"/>
+      <category term="Javascript" scheme="https://chaitanyagiri.ga/tags/Javascript/"/>
     
-      <category term="Motivation" scheme="http://chaitanyagiri.ga/tags/Motivation/"/>
+      <category term="Motivation" scheme="https://chaitanyagiri.ga/tags/Motivation/"/>
     
   </entry>
   
