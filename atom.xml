@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chaitanyagiri.ga/"/>
-  <updated>2018-07-28T12:46:32.657Z</updated>
+  <updated>2018-08-03T21:10:04.064Z</updated>
   <id>https://chaitanyagiri.ga/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>How to use Spotify in India(or any unsupported country).</title>
+    <link href="https://chaitanyagiri.ga/2018/08/04/How-to-use-Spotify-in-India-or-any-unsupported-country/"/>
+    <id>https://chaitanyagiri.ga/2018/08/04/How-to-use-Spotify-in-India-or-any-unsupported-country/</id>
+    <published>2018-08-03T19:02:00.000Z</published>
+    <updated>2018-08-03T21:10:04.064Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn-images-1.medium.com/max/800/1*ZleeB5TbHj63WI0QobRf9A.png" alt="Chaitanya Giri"></p><p>No doubt spotify is a king when it comes to the music industry. The wide variety it offers is just uncompetitive. But its biggest drawback is that <strong>it isn’t available in India.</strong> You can’t keep 17% of the total world population away from something as good as spotify.(Yes, I know not everyone has access to Internet but thats a discussion for some other day).</p><p>I was working on some project and suddenly I felt a sudden need to hear some good music to pace up my work and refresh my mood. I realized I don’t have much option in this case and every option available had some major drawbacks let me list down a few — </p><ul><li>Youtube — heavy data consumption, bad suggestion engine</li><li>Wynk , saavn, gaana etc.— Paid, Heavy advertisements (even in between songs), shitty collection.</li></ul><p>So with lots of effort(Not so much) I figured out how to use spotify in a country where they don’t offer their services even without any proxy server(YES it is possible). With only minutes of research you will be able to find out that they(Spotify) do not continuously check for your location but they do it only when you login/sign up for the application so you only have to somehow bypass the authentication part and you will be good to go.</p><p>Follow these steps — </p><ul><li>Download Zenmate or any other proxy extension/addon</li><li>Download spotify app available for windows, linux(YES), Mac, android and ios</li><li>Log in to facebook using your default browser.</li><li>Turn on Zenmate proxy and select USA or any supported country (just few clicks in UI, you’ll have to use it just once don’t worry I keep my promises).</li><li>Open the app and login to the Spotify using facebook it will open your default browser in which proxy is running you can verify your account there. It’ll redirect you to the app/website.</li><li>Just turn off the proxy and remove extension temporarily(if you want). Boom you are done open spotify app and play whatever you want.</li></ul><p>For more such content follow me on <a href="https://www.instagram.com/chaitanyagiri.ga" target="_blank" rel="noopener">instagram</a>, <a href="https://twitter.com/chaitanyagiri" target="_blank" rel="noopener">twitter</a>, <a href="https://github.com/chaitanyagiri" target="_blank" rel="noopener">github</a> and <a href="https://medium.com/@chaitanyagiri" target="_blank" rel="noopener">medium</a> . Enjoy the music on your spotify app.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*ZleeB5TbHj63WI0QobRf9A.png&quot; alt=&quot;Chaitanya Giri&quot;&gt;&lt;/p&gt;&lt;p&gt;No doubt spotify is a king wh
+      
+    
+    </summary>
+    
+    
+      <category term="Chaitanya Giri" scheme="https://chaitanyagiri.ga/tags/Chaitanya-Giri/"/>
+    
+      <category term="Tutorial" scheme="https://chaitanyagiri.ga/tags/Tutorial/"/>
+    
+      <category term="Proxy" scheme="https://chaitanyagiri.ga/tags/Proxy/"/>
+    
+      <category term="spotify" scheme="https://chaitanyagiri.ga/tags/spotify/"/>
+    
+      <category term="india" scheme="https://chaitanyagiri.ga/tags/india/"/>
+    
+      <category term="how to" scheme="https://chaitanyagiri.ga/tags/how-to/"/>
+    
+      <category term="use" scheme="https://chaitanyagiri.ga/tags/use/"/>
+    
+  </entry>
   
   <entry>
     <title>Solving React challenges from FreeCodeCamp. | Challenges 8 to 13</title>
@@ -682,39 +717,6 @@
       <category term="series" scheme="https://chaitanyagiri.ga/tags/series/"/>
     
       <category term="summary" scheme="https://chaitanyagiri.ga/tags/summary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>How to complete Freecodecamp&#39;s front end certification in 40 days.</title>
-    <link href="https://chaitanyagiri.ga/2017/06/19/How/"/>
-    <id>https://chaitanyagiri.ga/2017/06/19/How/</id>
-    <published>2017-06-19T12:16:00.000Z</published>
-    <updated>2018-06-19T07:18:31.608Z</updated>
-    
-    <content type="html"><![CDATA[<p>I started my free code camp in first week of May 2017 and completed it today i.e, 19 June 2017. Here is the link to my <a href="https://www.freecodecamp.com/chaitanyagiri/front-end-certification" target="_blank" rel="noopener">certificate</a>. I am a Computer and Communication engineering student at <a href="http://lnmiit.ac.in/" target="_blank" rel="noopener">LNMIIT</a>, Jaipur, India.</p><p><img src="https://cdn-images-1.medium.com/max/1200/1*lyyZ67tPL2qvlvxuOHhyXA.jpeg" alt="FCC Certificate"></p><p>Two semesters had already passed and I was going nowhere. I had an interest in coding and I did some coding in C++, C and python. In the second term I was introduced to term “Web Development”. After that I didn’t know where to start from so I started trying things that again took me nowhere, one day I was going through an answer in <a href="https://www.quora.com/" target="_blank" rel="noopener">quora</a> and came to know about FCC. I didn’t started it right through since I had my 2nd semester examinations(got “F” in two subjects), So I decided to start it in term break.</p><p>Here are some of the things that you might want to consider if you wish to complete your certification in 40 or less than 40 days:-</p><ul><li><p><strong>Set a target of at least 10 hours a day - </strong>You need to give some quality time to it. Some of the challenges will take lesser time while you may get stuck in some for days. All this needs time so be prepared to give this much time.</p></li><li><p><strong>Stay healthy</strong>- I tried to maintain healthy lifestyle used to hit the gym daily, ate healthy food.<br>Still I got sick so, I was not coding for two whole days which I think was a huge loss for me. I used to sleep late in the night or call it early morning(3 am-4 am). I think this could have been better so have a proper schedule of sleeping.</p></li><li><p><strong>Don’t give up</strong>- Believe me or not you will get stuck in challenges and feel like ending your journey in FCC. But believe in yourself you will solve your challenge and feel like being in the top of the world.</p></li><li><p><strong>Read-Search-Ask</strong>- This is the first thing that you are been told when you start your FCC. You need to do it effectively. Read from trusted sources, search for resources that will help you in long run, The forum and chat rooms are really active, so ask your queries. But make sure you do it in the same sequence as mentioned.</p></li><li><p><strong>Join all the forums and social media pages related to FCC</strong>- This helps you get motivated. Here’s how : suppose you are using social media in your free time and you encounter a post in one of the pages you will open it, read it and it will remind you of working hard and keep you motivated.</p></li></ul><p>That’s all after that I will build a new portfolio page and then further strengthen my JavaScript skills. Then hop back to data visualization certification. Have a nice day, happy coding.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;I started my free code camp in first week of May 2017 and completed it today i.e, 19 June 2017. Here is the link to my &lt;a href=&quot;https://w
-      
-    
-    </summary>
-    
-      <category term="Journey" scheme="https://chaitanyagiri.ga/categories/Journey/"/>
-    
-    
-      <category term="Chaitanya Giri" scheme="https://chaitanyagiri.ga/tags/Chaitanya-Giri/"/>
-    
-      <category term="Freecodecamp" scheme="https://chaitanyagiri.ga/tags/Freecodecamp/"/>
-    
-      <category term="Web Development" scheme="https://chaitanyagiri.ga/tags/Web-Development/"/>
-    
-      <category term="Javascript" scheme="https://chaitanyagiri.ga/tags/Javascript/"/>
-    
-      <category term="Motivation" scheme="https://chaitanyagiri.ga/tags/Motivation/"/>
     
   </entry>
   
