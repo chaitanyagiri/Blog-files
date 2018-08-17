@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chaitanyagiri.ga/"/>
-  <updated>2018-08-03T21:10:04.064Z</updated>
+  <updated>2018-08-17T04:11:47.449Z</updated>
   <id>https://chaitanyagiri.ga/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Solving React challenges from FreeCodeCamp. | Creating a Controlled Input</title>
+    <link href="https://chaitanyagiri.ga/2018/08/17/Solving-React-challenges-from-FreeCodeCamp-Creating-a-Controlled-Input/"/>
+    <id>https://chaitanyagiri.ga/2018/08/17/Solving-React-challenges-from-FreeCodeCamp-Creating-a-Controlled-Input/</id>
+    <published>2018-08-17T03:56:00.000Z</published>
+    <updated>2018-08-17T04:11:47.449Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello guys, I am Chaitanya Giri and welcome to this tutorial series where you’ll be learning React JS from FreeCodeCamp with me.</p><p>This is the fourth article in this tutorial series here’s the link to the <a href="https://chaitanyagiri.ga/2018/07/28/Solving-React-challenges-from-FreeCodeCamp-Challenges-8-to-13/">previous article</a>. This article covers 28th challenge i.e, Create a controlled form —</p><p>Those who have been following my content must have observed a big jump in the challenges. I have skipped the mid part because I forgot to download the solutions in those parts and there is no way to see all submitted chaenges so I will cover the challenges in between soon. This is the same article you see when you click on get a hint in this challenge because I am the person wrote the article on the FCC website as well Infact I got the idea about this article series due to this article only.</p><h4 id="Solution-and-Explaination"><a href="#Solution-and-Explaination" class="headerlink" title="Solution and Explaination -"></a>Solution and Explaination -</h4><p><a href="https://learn.freecodecamp.org/front-end-libraries/react/create-a-controlled-input" target="_blank" rel="noopener">Create a controlled input -</a></p><p>Here the idea is to create a controlled input where the text updates from your state, not from the browser.</p><p>So to begin with we have a skeleton in which we have a class named <code>ControlledInput</code> and a state variable named <code>input</code>. Now all you need to do is take that state and when a change in the input box is observed trigger a function that changes the value inside that input box and in the paragraph below it.</p><p>So you first step will be making a function that changes the state variable <code>input</code>.<br></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">handleChange(event) &#123;</span><br><span class="line">    this.setState(&#123;</span><br><span class="line">      input: event.target.value</span><br><span class="line">    &#125;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p></p><p>Now your next step will involve creating a input box and trigger it when someone types anything. Luckily we have a event called <code>onChange()</code> to serve this purpose.<br><br>PS - Here is another way to bind <code>this</code> into a function<br></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;input onChange = &#123;this.handleChange.bind(this)&#125;/&gt;</span><br></pre></td></tr></table></figure><p></p><p>But this just won’t serve your purpose. Although you might feel that its working. So what’s happening here is text updates from from the browser not the state. So to correct this we’ll add a <code>value</code> attribute and set it to <code>this.state.input</code> to the input element which will make the input get controlled by state.</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;input value = &#123;this.state.input&#125; onChange = &#123;this.handleChange.bind(this)&#125;/&gt;</span><br></pre></td></tr></table></figure><p>It can be a bit hard to digest but to make things further clear try removing the entire <code>onChange</code> thing so your code looks like this<br></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;input value = &#123;this.state.input&#125;/&gt;</span><br></pre></td></tr></table></figure><p></p><p>Now run the tests again are you able to type anything?<br><br>The answer to it will be “NO” since your input box is getting value from the state variable <code>input</code> since there is no change in the state <code>input</code>(an empty string initially) which will only happen when you trigger the function <code>handleChange()</code> which will only happen when you have a event handler like <code>onChange()</code> hence the string inside the input box will remain as it is i.e, an empty string.</p><p>So this brings us to the end of fourth article in this tutorial series.</p><p>Don’t forget to follow me on <a href="http://instagram.com/irig_aynatiahc" target="_blank" rel="noopener">instagram</a>, <a href="https://twitter.com/chaitanyagiri" target="_blank" rel="noopener">twitter</a>, <a href="https://github.com/chaitanyagiri" target="_blank" rel="noopener">github</a> and <a href="https://medium.com/@chaitanyagiri" target="_blank" rel="noopener">medium</a> .</p><p>Happy Coding.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello guys, I am Chaitanya Giri and welcome to this tutorial series where you’ll be learning React JS from FreeCodeCamp with me.&lt;/p&gt;&lt;p&gt;Th
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="https://chaitanyagiri.ga/categories/Tutorial/"/>
+    
+    
+      <category term="Chaitanya Giri" scheme="https://chaitanyagiri.ga/tags/Chaitanya-Giri/"/>
+    
+      <category term="Web Development" scheme="https://chaitanyagiri.ga/tags/Web-Development/"/>
+    
+      <category term="tutorial" scheme="https://chaitanyagiri.ga/tags/tutorial/"/>
+    
+      <category term="react" scheme="https://chaitanyagiri.ga/tags/react/"/>
+    
+      <category term="freecodecamp" scheme="https://chaitanyagiri.ga/tags/freecodecamp/"/>
+    
+      <category term="javascript" scheme="https://chaitanyagiri.ga/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>How to use Spotify in India(or any unsupported country).</title>
@@ -682,41 +717,6 @@
       <category term="GDG" scheme="https://chaitanyagiri.ga/tags/GDG/"/>
     
       <category term="Fun " scheme="https://chaitanyagiri.ga/tags/Fun/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Summarizing YDKJS : UP &amp; GOING: Chapter -1</title>
-    <link href="https://chaitanyagiri.ga/2017/06/24/Summarizing-YDKJS-UP-GOING-Chapter-1/"/>
-    <id>https://chaitanyagiri.ga/2017/06/24/Summarizing-YDKJS-UP-GOING-Chapter-1/</id>
-    <published>2017-06-24T12:27:00.000Z</published>
-    <updated>2018-06-19T07:18:54.464Z</updated>
-    
-    <content type="html"><![CDATA[<p>Hi there, I am Starting this blog series in which I would be summarizing: <a href="https://github.com/getify/You-Dont-Know-JS/" target="_blank" rel="noopener">You Don’t Know JavaScript</a>.<br>I will try to write a chapter’s summary at a time, please correct me<br>where I am wrong I’d love to have a healthy discussion over JavaScript<br>with you, follow up for further updates.</p><p><img src="https://images-eu.ssl-images-amazon.com/images/I/41L18FvA5rL.jpg" alt="Up and Going"></p><p>Summarizing YDKJS UP and GOING</p><p>YDKJS is a book series and it contains 6 books:</p><ul><li>UP &amp;GOING</li><li>SCOPE &amp; CLOSURES</li><li>this &amp; OBJECT PROTOTYPES</li><li>TYPES &amp; GRAMMAR</li><li>ASYNC &amp; PERFORMANCE</li><li>ES6 AND BEYOND</li></ul><p><strong>Note:<br>This summary is not for complete newbie its for someone who has done<br>some coding previously or is familiar with JS. However if you find the<br>summary comfortable you can go for it.</strong></p><p>YDKJS-&gt; UP &amp; GOING-&gt;Chapter-1:</p><p>A code is divided into two subgroups:</p><ol><li>Statement: Group of words, numbers, and operators that performs a specific task. Consists of one or more than one expressions. <strong>Most </strong>statements end with a ‘ _;_ ’.</li><li>Expressions: Set of variable(s) and value(s) combined with operators.</li></ol><p>Explaining <em>a = b * 2;</em> (complete statement contains 4 expressions):</p><p>1, _2_-literal exp</p><p>2, _b_-variable exp</p><p>3, <em>b*2</em>-arithmetic exp</p><p>4, <em>a=b*2</em>-assignment exp</p><p>Then it recommends you to use developer console of your browser. Open a new tab and type _about:blank _in address bar and then open developer’s console from settings (or press <em>Ctrl+shift+I</em> in Google chrome or <em>Ctrl+shift+K</em> in Mozilla Firefox). For multi line code press <em>shift+Enter</em> to get to new line and press <em>Enter</em> to run code. Now try below code in your console.</p><p>anything you want to display in console must be inside the _console.log( ); _statement. You may try using _alert(b); _after the code and see that there is an alert box on the top of browser. We won’t use _alert(); _in YDKJS.</p><p>To get some input from user we will use _prompt(); <em>try replacing</em> a=21; _by_ a=prompt(“Enter value of a:”);_</p><p>Operators- We perform actions on variables and values through operators. Some common type of operators are:</p><ul><li>=(assignment)</li><li><em>+, -, *, /</em>(math)</li><li>+=, -=, *=, and /=(compound assignment)</li><li>++ (increment), – (decrement)</li><li>Object Property Access-(.)</li><li>Equality: == , === , != ,!==</li><li>Comparison:&lt;,&gt;, &lt;=, &gt;=</li><li>Logical:&amp;&amp;(and),||(or)</li></ul><p>There are 6 total data types in JS :String, Number, Boolean, null and undefined, object, symbol(new in ES6).There is a _typeof (anyValue); _operator which tells you the data type of given value. <em>typeof (null); returns us “object” possibly a bug.</em></p><p>Commenting your code is a good programming practice:</p><ul><li>// This is a single-line comment</li><li>/<em> But this is<br>a multiline<br>comment. </em>/</li></ul><p>Variable: Symbolic container. The value in this container can <em>vary</em> over time as needed. Definition: <em>var a= “This is a sample variable”;</em></p><p>_var a = “42”;/<em>string</em>/ <em>and</em> var b= 42; /<em>Number</em>/_ are different. Use <em>Number(a); and String(b);</em> to change their data types;</p><p>Block: Wrapping one or more statements inside a curly-brace pair</p><p><em>{ .. }</em></p><p>Conditionals: Most common one is _if(Condition){statement(s);} <em>means</em> If_ this condition is true, do the following.</p><p><em>if(10&lt;20){console.log(“10 is smaller than 20”);}</em></p><p><em>else{console.log(“10 is greater than 20”)}</em></p><p>_If_ this 10&lt;20, do the this, else do that.</p><p>Loops:3 types : 1,for() 2,while() 3,do{}while()</p><p>for():</p><p>for (var i = 0; i &lt;= 9; i = i + 1) {<br>console.log( i );<br>}<br>// 0 1 2 3 4 5 6 7 8 9</p><p>while():</p><p>var i = 0;</p><p>// a <code>while..true</code> loop would run forever, right?<br>while (true) {<br>// stop the loop?<br>if ((i &lt;= 9) === false) {<br>break;<br>}</p><pre><code>console.log( i );  i = i + 1;  </code></pre><p>}<br>// 0 1 2 3 4 5 6 7 8 9</p><p>do{}while():</p><p>do {<br>console.log( “How may I help you?” );</p><pre><code>// help the customer...  numOfCustomers = numOfCustomers - 1;  </code></pre><p>} while (numOfCustomers &gt; 0);</p><p>Functions:<br>A named section of code that can be “called” by name, and the code<br>inside it will be run each time. Functions can optionally take arguments<br>(aka parameters).</p><p>Definition: <em>function anyName(parameters separated by comma if you want){statement(s);}</em></p><p>Scope:<br>scope/lexical scope rules say that code in one scope can access<br>variables of either that scope or any scope outside of it.</p><p>Consider:</p><p>function outer() {<br>var a = 1;</p><pre><code>function inner() {      var b = 2;    // we can access both `a` and `b` here      console.log( a + b );    // 3  }inner();// we can only access `a` here  console.log( a );            // 1  </code></pre><p>}</p><p>outer();</p><p>We have detailed 3 chapters in another book of this series on scope and closures.</p><p>I<br>didn’t wanted it to be this long but since it was more of an<br>introduction so be it I assure next summaries will be shorter and<br>concise. Follow my coding journey on <a href="https://github.com/chaitanyagiri/" target="_blank" rel="noopener">github</a>. Click <a href="https://medium.com/@16ucc028/summarizing-ydkjs-up-going-chapter-2-d06392d26100" target="_blank" rel="noopener">here</a> to go to chapter 2 summary.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Hi there, I am Starting this blog series in which I would be summarizing: &lt;a href=&quot;https://github.com/getify/You-Dont-Know-JS/&quot; target=&quot;_
-      
-    
-    </summary>
-    
-      <category term="Tutorial" scheme="https://chaitanyagiri.ga/categories/Tutorial/"/>
-    
-    
-      <category term="Chaitanya Giri" scheme="https://chaitanyagiri.ga/tags/Chaitanya-Giri/"/>
-    
-      <category term="Javascript" scheme="https://chaitanyagiri.ga/tags/Javascript/"/>
-    
-      <category term="Tutorial" scheme="https://chaitanyagiri.ga/tags/Tutorial/"/>
-    
-      <category term="Book" scheme="https://chaitanyagiri.ga/tags/Book/"/>
-    
-      <category term="series" scheme="https://chaitanyagiri.ga/tags/series/"/>
-    
-      <category term="summary" scheme="https://chaitanyagiri.ga/tags/summary/"/>
     
   </entry>
   
