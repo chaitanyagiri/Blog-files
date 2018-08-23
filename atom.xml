@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chaitanyagiri.ga/"/>
-  <updated>2018-08-17T04:11:47.449Z</updated>
+  <updated>2018-08-23T15:01:47.733Z</updated>
   <id>https://chaitanyagiri.ga/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Solving React challenges from FreeCodeCamp. | ALL SOLVED  REACT AND  REDUX  CHALLENGES.</title>
+    <link href="https://chaitanyagiri.ga/2018/08/23/Solving-React-challenges-from-FreeCodeCamp-ALL-SOLVED-REACT-AND-REDUX-CHALLENGES/"/>
+    <id>https://chaitanyagiri.ga/2018/08/23/Solving-React-challenges-from-FreeCodeCamp-ALL-SOLVED-REACT-AND-REDUX-CHALLENGES/</id>
+    <published>2018-08-23T14:59:56.000Z</published>
+    <updated>2018-08-23T15:01:47.733Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn-images-1.medium.com/max/2000/1*WQ5bxwm2aMzCagBLEjA-iA.png" alt="Chaitanya Giri React tutorials"></p><p>Hello guys, I am Chaitanya Giri and welcome to this tutorial series where you’ll be learning React JS from FreeCodeCamp with me.</p><p>This is the fifth article in this tutorial series here’s the link to the <a href="https://chaitanyagiri.ga/2018/08/17/Solving-React-challenges-from-FreeCodeCamp-Creating-a-Controlled-Input/">previous article</a>. This article covers following challenges — </p><p>So some of the loyal users of my blog suggested me that I should provide and archive of all the solutions and then explain individually if needed. In a way that is exactly true, some of the challenges are relatively very easy and need little to no explanation.</p><p>Hence I decided to open source all the solutions to the react and redux challenges so in case some one got stuck somewhere they can see the solutions and figure out what they were doing wrong. But I highly suggest that you should try your best spend atleast 30 mins reading about the problem then only see the solutions.</p><p>Here’s the link to the <a href="https://github.com/chaitanyagiri/FCC-Solved-React-and-Redux-Challenges" target="_blank" rel="noopener">github repository</a> where I have put all the code. Feel free to mark a star it keeps me motivated when people like my work.</p><p><a href="https://github.com/chaitanyagiri/FCC-Solved-React-and-Redux-Challenges" title="https://github.com/chaitanyagiri/FCC-Solved-React-and-Redux-Challenges" target="_blank" rel="noopener"><strong>github.com/chaitanyagiri/FCC-Solved-React-and-Redux-Challenges</strong></a></p><p>So this brings us to the end of fifth article in this tutorial series.</p><p>Don’t forget to follow me on <a href="http://instagram.com/irig_aynatiahc" target="_blank" rel="noopener">instagram</a>, <a href="https://twitter.com/chaitanyagiri" target="_blank" rel="noopener">twitter</a>, <a href="https://github.com/chaitanyagiri" target="_blank" rel="noopener">github</a> and <a href="https://medium.com/@chaitanyagiri" target="_blank" rel="noopener">medium</a> .</p><p>Happy Coding.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*WQ5bxwm2aMzCagBLEjA-iA.png&quot; alt=&quot;Chaitanya Giri React tutorials&quot;&gt;&lt;/p&gt;&lt;p&gt;Hello guys, 
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Solving React challenges from FreeCodeCamp. | Creating a Controlled Input</title>
@@ -179,9 +200,9 @@
     
       <category term="Chaitanya Giri" scheme="https://chaitanyagiri.ga/tags/Chaitanya-Giri/"/>
     
-      <category term="Tutorial" scheme="https://chaitanyagiri.ga/tags/Tutorial/"/>
-    
       <category term="freecodecamp" scheme="https://chaitanyagiri.ga/tags/freecodecamp/"/>
+    
+      <category term="Tutorial" scheme="https://chaitanyagiri.ga/tags/Tutorial/"/>
     
       <category term="React.js" scheme="https://chaitanyagiri.ga/tags/React-js/"/>
     
@@ -253,15 +274,15 @@
     
       <category term="Hindi Poetry" scheme="https://chaitanyagiri.ga/tags/Hindi-Poetry/"/>
     
+      <category term="Literature" scheme="https://chaitanyagiri.ga/tags/Literature/"/>
+    
       <category term="Hindi" scheme="https://chaitanyagiri.ga/tags/Hindi/"/>
     
-      <category term="Literature" scheme="https://chaitanyagiri.ga/tags/Literature/"/>
+      <category term="Urdu" scheme="https://chaitanyagiri.ga/tags/Urdu/"/>
     
       <category term="Hindi Poem" scheme="https://chaitanyagiri.ga/tags/Hindi-Poem/"/>
     
       <category term="Best Hindi Poetry" scheme="https://chaitanyagiri.ga/tags/Best-Hindi-Poetry/"/>
-    
-      <category term="Urdu" scheme="https://chaitanyagiri.ga/tags/Urdu/"/>
     
       <category term="Values" scheme="https://chaitanyagiri.ga/tags/Values/"/>
     
@@ -292,17 +313,17 @@
     
       <category term="Hindi Poetry" scheme="https://chaitanyagiri.ga/tags/Hindi-Poetry/"/>
     
-      <category term="Hindi" scheme="https://chaitanyagiri.ga/tags/Hindi/"/>
-    
       <category term="Literature" scheme="https://chaitanyagiri.ga/tags/Literature/"/>
     
-      <category term="Poem" scheme="https://chaitanyagiri.ga/tags/Poem/"/>
+      <category term="Hindi" scheme="https://chaitanyagiri.ga/tags/Hindi/"/>
+    
+      <category term="Urdu" scheme="https://chaitanyagiri.ga/tags/Urdu/"/>
     
       <category term="Hindi Poem" scheme="https://chaitanyagiri.ga/tags/Hindi-Poem/"/>
     
       <category term="Best Hindi Poetry" scheme="https://chaitanyagiri.ga/tags/Best-Hindi-Poetry/"/>
     
-      <category term="Urdu" scheme="https://chaitanyagiri.ga/tags/Urdu/"/>
+      <category term="Poem" scheme="https://chaitanyagiri.ga/tags/Poem/"/>
     
   </entry>
   
@@ -329,9 +350,9 @@
       <category term="all" scheme="https://chaitanyagiri.ga/categories/Daily-Life/all/"/>
     
     
-      <category term="Lifestyle" scheme="https://chaitanyagiri.ga/tags/Lifestyle/"/>
-    
       <category term="Chaitanya Giri" scheme="https://chaitanyagiri.ga/tags/Chaitanya-Giri/"/>
+    
+      <category term="Lifestyle" scheme="https://chaitanyagiri.ga/tags/Lifestyle/"/>
     
       <category term="Fun" scheme="https://chaitanyagiri.ga/tags/Fun/"/>
     
@@ -366,17 +387,17 @@
       <category term="Anouncement" scheme="https://chaitanyagiri.ga/categories/Anouncement/"/>
     
     
+      <category term="Chaitanya Giri" scheme="https://chaitanyagiri.ga/tags/Chaitanya-Giri/"/>
+    
+      <category term="Lifestyle" scheme="https://chaitanyagiri.ga/tags/Lifestyle/"/>
+    
       <category term="Anouncement" scheme="https://chaitanyagiri.ga/tags/Anouncement/"/>
     
       <category term="New Content" scheme="https://chaitanyagiri.ga/tags/New-Content/"/>
     
-      <category term="Lifestyle" scheme="https://chaitanyagiri.ga/tags/Lifestyle/"/>
-    
       <category term="Daily blogs" scheme="https://chaitanyagiri.ga/tags/Daily-blogs/"/>
     
       <category term="Interesting life of people" scheme="https://chaitanyagiri.ga/tags/Interesting-life-of-people/"/>
-    
-      <category term="Chaitanya Giri" scheme="https://chaitanyagiri.ga/tags/Chaitanya-Giri/"/>
     
   </entry>
   
@@ -473,13 +494,13 @@
       <category term="Discussion" scheme="https://chaitanyagiri.ga/categories/Discussion/"/>
     
     
-      <category term="Chaitanya Giri" scheme="https://chaitanyagiri.ga/tags/Chaitanya-Giri/"/>
-    
       <category term="Social Issues" scheme="https://chaitanyagiri.ga/tags/Social-Issues/"/>
     
       <category term="Reservation" scheme="https://chaitanyagiri.ga/tags/Reservation/"/>
     
       <category term="India" scheme="https://chaitanyagiri.ga/tags/India/"/>
+    
+      <category term="Chaitanya Giri" scheme="https://chaitanyagiri.ga/tags/Chaitanya-Giri/"/>
     
   </entry>
   
@@ -686,37 +707,6 @@
       <category term="Experience" scheme="https://chaitanyagiri.ga/tags/Experience/"/>
     
       <category term="Full-Stack applicatiion development" scheme="https://chaitanyagiri.ga/tags/Full-Stack-applicatiion-development/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Why you should attend Google Developer’s Group DevFests.</title>
-    <link href="https://chaitanyagiri.ga/2017/10/08/Why-you-should-attend-Google-Developer%E2%80%99s-Group-DevFests/"/>
-    <id>https://chaitanyagiri.ga/2017/10/08/Why-you-should-attend-Google-Developer’s-Group-DevFests/</id>
-    <published>2017-10-08T12:45:00.000Z</published>
-    <updated>2018-06-19T07:19:13.412Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F36269702%2F179482607741%2F1%2Foriginal.jpg?h=200&amp;w=450&amp;rect=201%2C0%2C2168%2C1084&amp;s=abde60330317df1af8018253f1eaea96" alt="Devfest"><br>This Sunday I was lucky enough to get myself registered in GDG DevFest2017, Jaipur. Here’s some reason why you should attend one:</p><ul><li><strong>Awesome people around you :</strong> You get to meet a lot of inspirational people, you will find yourself around a lot of people having similar interests.</li><li><strong>Get to know about new technologies</strong> : New technologies is what fascinates every developer, I especially enjoyed that part of the event you will get to know about new languages, frameworks, have an hands on experience with some languages or technology.</li><li><strong>Discover yourself</strong> <strong>:</strong> You will be able to see where you stand among your peers. This will help you to get a direction wherever you will proceed in your career.</li><li><strong>Awesome goodies</strong> : I got an awesome T-shirt and some cool goodies so even if you are a complete beginner at least you get these stuffs.</li><li><strong>Awesome food</strong> : If you are lucky enough, some of these events have lunch and often conducted in a reputed place. So you will find a way to satisfy your tummies as well.</li><li><strong>Opportunities</strong> : Since so much networking happens in GDG DevFests so there is a high probably that you bag an opportunity for yourself. (Pro tip: Get in touch with the organizers.)</li></ul><p>This will be a wonderful experience as whole, you will definitely learn a lot from an event like this, so in future if you get an opportunity don’t miss out, do attend GDG DevFests. Happy Coding.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F36269702%2F179482607741%2F1%2Foriginal.jpg?h=200&amp;amp;w=450&amp;amp;rec
-      
-    
-    </summary>
-    
-      <category term="Events" scheme="https://chaitanyagiri.ga/categories/Events/"/>
-    
-    
-      <category term="Chaitanya Giri" scheme="https://chaitanyagiri.ga/tags/Chaitanya-Giri/"/>
-    
-      <category term="Events" scheme="https://chaitanyagiri.ga/tags/Events/"/>
-    
-      <category term="GDG" scheme="https://chaitanyagiri.ga/tags/GDG/"/>
-    
-      <category term="Fun " scheme="https://chaitanyagiri.ga/tags/Fun/"/>
     
   </entry>
   
